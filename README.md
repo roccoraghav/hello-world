@@ -1,2 +1,5 @@
 # hello-world
-it's all about me
+This is Rocco here
+i like php,js,.net,html
+and i am little above beginner :)
+
